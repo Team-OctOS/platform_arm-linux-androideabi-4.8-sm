@@ -1,0 +1,12 @@
+# Gedit backup files
+*~
+
+# nano save
+*.save
+
+# Test scripts
+arm-eabi-5.0
+all-5.0
+
+# libtool scripts
+*.la
